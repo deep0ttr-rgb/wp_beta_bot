@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-08-15T21:39:21+05:30",
+  "title": "NO SESSION DATA",
+  "details": "No active WhatsApp session found.",
+  "suggestions": "1. Go to https://t-ct.org/pair\n2. Update SESSION_ID in .env\n3. Restart bot."
+}
